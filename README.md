@@ -13,6 +13,7 @@ Tools & softwares used:
 + NetBeans
 + MySQL Workbench
 
+Demo Video Link: https://www.instagram.com/tv/CcmB8EXFcy9/?utm_source=ig_web_copy_link
 ## Conclusion
 Our first Target was to faciltate the educational system and creating a cooperated enviroment to help in creating good future of the students.
 And finish the bad environment of The Facebook, by ending using the Facebook groups and starting using Genius Education to connect the staff with the students. 
