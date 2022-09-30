@@ -1,4 +1,4 @@
-# Genius-Education-Managment-System-for-Universities
+# Genius-Education-Management-System-for-Universities
 Genius Education is a program that makes educational system easier and contains accounts for students which will be used to download courses matrial and enable staff uploading their matrial. İt fully manages the whole process and let you to control it.
 
 It is really one of the biggest projects i ever worked on, I used all my knowledge in Java SE while coding including data structure, functional programming, object-oriented programming, Java graphics and more..
@@ -18,3 +18,5 @@ Demo Video Link: https://www.instagram.com/tv/CcmB8EXFcy9/?utm_source=ig_web_cop
 Our first Target was to faciltate the educational system and creating a cooperated enviroment to help in creating good future of the students.
 And finish the bad environment of The Facebook, by ending using the Facebook groups and starting using Genius Education to connect the staff with the students. 
 With Genius Education it will be easy to educate and learning and we hope to supply it in universities.
+
+## **Author: Ahmed Mohie Younis**
